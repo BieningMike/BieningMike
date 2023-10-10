@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BieningMike
-- 👀 I’m interested in ... investing and NFT
+- 👀 I’m interested in ... IT technologies.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...My telegram @bieningmike 
+- 📫 How to reach me ...My telegram @bydonnyim 
 my email rismishan2@gmail.com
 
 <!---
