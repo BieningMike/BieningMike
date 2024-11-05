@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BieningMike
-- 👀 I’m interested in ... IT Management and Cybersecurity.
+- 👀 I’m interested in ... IT Management & Cybersecurity
 - 🌱 I’m currently learning ... Python, Cloud Networking, Networking Fundamentals, and Cybersecurity.
 - 📫 How to reach me ... 
 
